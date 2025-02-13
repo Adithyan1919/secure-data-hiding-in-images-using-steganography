@@ -46,4 +46,5 @@ The binary message is then converted back to text and displayed.
 Example
 Original Image: A PNG image with no hidden message.
 Encoded Image: The same PNG image with a hidden message in its pixel data (invisible to the human eye).
-Decoded Message: The hidden message extracted and displayed in a pop-up window.
+Decoded Message: The hidden message extracted and displayed in a pop-up window.![image](https://github.com/user-attachments/assets/b64d1bdf-6d0c-4f36-bb87-8f2e85b3587a)
+
